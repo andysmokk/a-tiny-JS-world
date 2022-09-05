@@ -9,7 +9,7 @@
 // Define your objects here
 
 const man = {
-  species: "man",
+  species: "human",
   name: "Momo",
   hands: 2,
   legs: 2,
@@ -19,7 +19,7 @@ const man = {
 };
 
 const woman = {
-  species: "woman",
+  species: "human",
   name: "Kamila",
   hands: 2,
   legs: 2,
